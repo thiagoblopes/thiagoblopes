@@ -1,6 +1,6 @@
 # Thiago Barbosa
 
-**`Engenheiro de Dados | GCP & AWS`**
+## **`Engenheiro de Dados | GCP & AWS`**
 
 ***
 
@@ -14,6 +14,7 @@ Olá!✌ Sou engenheiro de dados com foco em projetos de integração de dados. 
 * **Serviços AWS:** Glue, S3, Athena
 * **Banco de Dados e Data Warehouse** SQL Server, Big Query, Redshift
 * **Orquestração** Integration Services, Control-M, Step Functions
+* **ETL** Integration Services, Pentaho, Python, Spark
 * **Devops & Versionamento:** Bitbucket, Git, GitHub, Jenkins
 * **Business Intelligence:** Power BI, Microstrategy
 * **Metodologias:** Agile, Scrum, Cascata
@@ -73,6 +74,7 @@ Olá!✌ Sou engenheiro de dados com foco em projetos de integração de dados. 
 <br/>
 <br/>
 
-
-
+***
+  
 </p>
+ 

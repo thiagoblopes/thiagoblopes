@@ -4,7 +4,7 @@
 
 ***
 
-Olá!✌ Sou engenheiro de dados com foco em projetos de integração de dados. Com ampla experiência em ambientes on-premises, venho me especializando em todo o ciclo de vida dos projetos de dados, desde a concepção e entendimento dos requisitos de negócios, passando pelas estimativas de esforço, até o desenvolvimento e implementação de soluções escaláveis e robustas.
+Olá!✌ Sou engenheiro de dados com foco em projetos de dados, desde a concepção e entendimento dos requisitos de negócios, passando pelas estimativas de esforço, até o desenvolvimento e implementação de soluções escaláveis e robustas.
 
 ***
 
